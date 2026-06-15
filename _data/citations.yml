@@ -1,0 +1,199 @@
+metadata:
+  citedby: 9182
+  hindex: 24
+  i10index: 26
+  last_updated: '2026-06-14'
+  num_publications: 30
+papers:
+  Il0-knUAAAAJ:0EnyYjriUFMC:
+    citations: 205
+    title: Pan-cancer analysis of post-translational modifications reveals shared patterns of protein regulation
+    year: '2023'
+  Il0-knUAAAAJ:2osOgNQ5qMEC:
+    citations: 212
+    title: Population-scale tissue transcriptomics maps long non-coding RNAs to complex disease
+    year: '2021'
+  Il0-knUAAAAJ:3fE2CSJIrl8C:
+    citations: 6
+    title: "Machine\u2010learning based subgroups of AL amyloidosis and cumulative incidence of mortality and end stage kidney disease"
+    year: '2024'
+  Il0-knUAAAAJ:4DMP91E08xMC:
+    citations: 12
+    title: 'ECLIPSER: identifying causal cell types and genes for complex traits through single cell enrichment of e/sQTL-mapped genes in GWAS loci'
+    year: '2021'
+  Il0-knUAAAAJ:4TOpqqG69KYC:
+    citations: 0
+    title: Genomic Profiling of Smoldering Multiple Myeloma Classifies Molecular Groups with Distinct Pathogenic Phenotypes and Clinical Outcomes
+    year: '2021'
+  Il0-knUAAAAJ:5nxA0vEk-isC:
+    citations: 52
+    title: Comprehensive proteogenomic characterization of rare kidney tumors
+    year: '2024'
+  Il0-knUAAAAJ:7PzlFSSx8tAC:
+    citations: 37
+    title: High-resolution profiling of lung adenocarcinoma identifies expression subtypes with specific biomarkers and clinically relevant vulnerabilities
+    year: '2022'
+  Il0-knUAAAAJ:8k81kl-MbHgC:
+    citations: 0
+    title: Identification and proteogenomic characterization of novel lung adenocarcinoma subtypes with therapeutic relevance
+    year: '2022'
+  Il0-knUAAAAJ:9ZlFYXVOiuMC:
+    citations: 0
+    title: Tamoxifen instigates uterine cancer development by activating PI3K signaling and supersedes PIK3CA driver mutations
+    year: '2022'
+  Il0-knUAAAAJ:9yKSN-GCB0IC:
+    citations: 2
+    title: Comprehensive proteogenomic characterization of rare kidney tumors
+    year: '2023'
+  Il0-knUAAAAJ:IWHjjKOFINEC:
+    citations: 5314
+    title: The GTEx Consortium atlas of genetic regulatory effects across human tissues
+    year: '2020'
+  Il0-knUAAAAJ:IjCSPb-OGe4C:
+    citations: 4
+    title: Artificial intelligence in nephrology
+    year: '2024'
+  Il0-knUAAAAJ:KlAtU1dfN6UC:
+    citations: 10
+    title: Precision proteogenomics reveals pan-cancer impact of germline variants
+    year: '2025'
+  Il0-knUAAAAJ:L8Ckcad2t8MC:
+    citations: 37
+    title: The FDA-approved drug Alectinib compromises SARS-CoV-2 nucleocapsid phosphorylation and inhibits viral infection in vitro
+    year: '2020'
+  Il0-knUAAAAJ:LkGwnXOMwfcC:
+    citations: 413
+    title: A proteogenomic portrait of lung squamous cell carcinoma
+    year: '2021'
+  Il0-knUAAAAJ:M3ejUd6NZC8C:
+    citations: 6
+    title: Tamoxifen induces PI3K activation in uterine cancer
+    year: '2025'
+  Il0-knUAAAAJ:MXK_kJrjxJIC:
+    citations: 8
+    title: Integrative analysis of lung adenocarcinoma across diverse ethnicities and exposures
+    year: '2025'
+  Il0-knUAAAAJ:QIV2ME_5wuYC:
+    citations: 1
+    title: Pan-cancer proteogenomic analysis reveals functional mechanisms underlying DNA repair deficiencies
+    year: '2022'
+  Il0-knUAAAAJ:Se3iqnhoufwC:
+    citations: 193
+    title: Molecular map of chronic lymphocytic leukemia and its impact on outcome
+    year: '2022'
+  Il0-knUAAAAJ:Tyk-4Ss8FVUC:
+    citations: 3
+    title: 'SNPs2ChIP: Latent Factors of ChIP-seq to infer functions of non-coding SNPs'
+    year: '2018'
+  Il0-knUAAAAJ:ULOm3_A8WrAC:
+    citations: 427
+    title: Single-nucleus cross-tissue molecular reference maps toward understanding disease gene function
+    year: '2022'
+  Il0-knUAAAAJ:UeHWp8X0CEIC:
+    citations: 0
+    title: 'CLUMPS-PTM: Spatial clustering of post-translational modifications across cancer types'
+    year: '2023'
+  Il0-knUAAAAJ:UebtZRa9Y70C:
+    citations: 56
+    title: Deep learning integrates histopathology and proteogenomics at a pan-cancer level
+    year: '2023'
+  Il0-knUAAAAJ:W7OEmFMy1HYC:
+    citations: 2
+    title: Patterns and regulation of post translational modifications in cancer
+    year: '2021'
+  Il0-knUAAAAJ:WF5omc3nYNoC:
+    citations: 2
+    title: 'Abstract GS2-09: Tamoxifen instigates uterine cancer development by activating PI3K signaling and supersedes PIK3CA driver mutations'
+    year: '2022'
+  Il0-knUAAAAJ:Wp0gIr-vW9MC:
+    citations: 7
+    title: Proteomic-based stemness score measures oncogenic dedifferentiation and enables the identification of druggable targets
+    year: '2025'
+  Il0-knUAAAAJ:Y0pCki6q_DkC:
+    citations: 261
+    title: Proteogenomic data and resources for pan-cancer analysis
+    year: '2023'
+  Il0-knUAAAAJ:YOwf2qJgpHMC:
+    citations: 1
+    title: Single cell characterization of myeloma and its precursor conditions reveals transcriptional signatures of early tumorigenesis
+    year: '2021'
+  Il0-knUAAAAJ:YsMSGLbcyi4C:
+    citations: 77
+    title: Immune biomarkers of response to immunotherapy in patients with high-risk smoldering myeloma
+    year: '2022'
+  Il0-knUAAAAJ:ZeXyd9-uunAC:
+    citations: 98
+    title: Single cell characterization of myeloma and its precursor conditions reveals transcriptional signatures of early tumorigenesis
+    year: '2022'
+  Il0-knUAAAAJ:Zph67rFs4hoC:
+    citations: 345
+    title: Scaling computational genomics to millions of individuals with GPUs
+    year: '2019'
+  Il0-knUAAAAJ:_FxGoFyzp5QC:
+    citations: 103
+    title: Pan-cancer proteogenomics characterization of tumor immunity
+    year: '2024'
+  Il0-knUAAAAJ:_kc_bZDykSQC:
+    citations: 241
+    title: Genomic profiling of smoldering multiple myeloma identifies patients at a high risk of disease progression
+    year: '2020'
+  Il0-knUAAAAJ:aqlVkmm33-oC:
+    citations: 540
+    title: A quantitative proteome map of the human body
+    year: '2020'
+  Il0-knUAAAAJ:d1gkVwhDpl0C:
+    citations: 7
+    title: 'Systemic amyloidosis and kidney transplantation: an update'
+    year: '2024'
+  Il0-knUAAAAJ:dhFuZR0502QC:
+    citations: 90
+    title: Host protein kinases required for SARS-CoV-2 nucleocapsid phosphorylation and viral replication
+    year: '2022'
+  Il0-knUAAAAJ:eQOLeE2rZwMC:
+    citations: 0
+    title: Machine learning-based clustering identifies novel subgroups of patients with AL amyloidosis with distinct clinical characteristics
+    year: '2024'
+  Il0-knUAAAAJ:hqOjcs7Dif8C:
+    citations: 4
+    title: "Light-chain (AL) amyloidosis for nephrologists\u2014treatment standard"
+    year: '2025'
+  Il0-knUAAAAJ:kNdYIx-mwKoC:
+    citations: 112
+    title: Pan-cancer proteogenomics connects oncogenic drivers to functional states
+    year: '2023'
+  Il0-knUAAAAJ:mVmsd5A6BfQC:
+    citations: 114
+    title: Integrative multi-omic cancer profiling reveals DNA methylation patterns associated with therapeutic vulnerability and cell-of-origin
+    year: '2023'
+  Il0-knUAAAAJ:qUcmZB5y_30C:
+    citations: 41
+    title: The impact of sex on gene expression across human tissues
+    year: '2020'
+  Il0-knUAAAAJ:qjMakFHDy7sC:
+    citations: 39
+    title: Genetic subtypes of smoldering multiple myeloma are associated with distinct pathogenic phenotypes and clinical outcomes
+    year: '2022'
+  Il0-knUAAAAJ:qxL8FJ1GzNcC:
+    citations: 6
+    title: 'The CLL-1100 project: towards complete genomic characterization and improved prognostics for CLL'
+    year: '2020'
+  Il0-knUAAAAJ:roLk4NBRz8UC:
+    citations: 43
+    title: SRSF protein kinases 1 and 2 are essential host factors for human coronaviruses including SARS-CoV-2
+    year: '2020'
+  Il0-knUAAAAJ:u-x6o8ySG0sC:
+    citations: 0
+    title: Genomic profiling of smoldering multiple myeloma classifies distinct molecular groups
+    year: '2021'
+  Il0-knUAAAAJ:u5HHmVD_uO8C:
+    citations: 3
+    title: Single-cell RNA-sequencing identifies immune biomarkers of response to immunotherapy in patients with high-risk smoldering myeloma
+    year: '2021'
+  Il0-knUAAAAJ:ufrVoPGSRksC:
+    citations: 0
+    title: High-resolution lung adenocarcinoma expression subtypes identify tumors with dependencies on MET, CDK4, CDK6, and PD-L1
+    year: '2022'
+  Il0-knUAAAAJ:zYLM7Y9cAGgC:
+    citations: 48
+    title: ZBTB33 Is Mutated in Clonal Hematopoiesis and Myelodysplastic Syndromes and Impacts RNA Splicing
+    year: '2021'

@@ -1,0 +1,35 @@
+<div class="col">
+  <div class="card h-100 hoverable">
+    <a href="{% if project.redirect %}{{ project.redirect }}{% else %}{{ project.url | relative_url }}{% endif %}">
+      {% if project.img %}
+        {%
+          include figure.liquid
+          loading="eager"
+          path=project.img
+          sizes = "250px"
+          alt="project thumbnail"
+          class="card-img-top"
+        %}
+      {% endif %}
+      <div class="card-body">
+        <h2 class="card-title">{{ project.title }}</h2>
+        <p class="card-text">{{ project.description }}</p>
+      </div>
+    </a>
+    {% if project.github %}
+      {% assign gh_path = project.github | replace: 'https://github.com/', '' | replace: 'http://github.com/', '' | split: '/' %}
+      <a
+        href="{{ project.github }}"
+        target="_blank"
+        rel="noopener"
+        class="card-footer github-link-footer"
+        aria-label="View {{ project.title }} on GitHub"
+      >
+        <span class="github-link">
+          <i class="fa-brands fa-github"></i>
+          {{ gh_path[0] }}/{{ gh_path[1] }}
+        </span>
+      </a>
+    {% endif %}
+  </div>
+</div>

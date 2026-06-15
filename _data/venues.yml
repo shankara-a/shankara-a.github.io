@@ -1,0 +1,77 @@
+# Journal/venue metadata used by _layouts/bib.liquid to render a logo badge
+# next to each publication entry instead of a plain text abbreviation.
+#
+# `logo` uses Google's favicon service to automatically pull an icon for the
+# journal's publisher domain, so no logos need to be sourced/hosted manually.
+
+Nat. Genet.:
+  url: https://www.nature.com/ng/
+  logo: https://www.google.com/s2/favicons?domain=nature.com&sz=64
+
+Nat. Commun.:
+  url: https://www.nature.com/ncomms/
+  logo: https://www.google.com/s2/favicons?domain=nature.com&sz=64
+
+Cell:
+  url: https://www.cell.com/cell/home
+  logo: https://www.google.com/s2/favicons?domain=cell.com&sz=64
+
+Cancer Cell:
+  url: https://www.cell.com/cancer-cell/home
+  logo: https://www.google.com/s2/favicons?domain=cell.com&sz=64
+
+Cell Genomics:
+  url: https://www.cell.com/cell-genomics/home
+  logo: https://www.google.com/s2/favicons?domain=cell.com&sz=64
+
+Cell Rep. Med.:
+  url: https://www.cell.com/cell-reports-medicine/home
+  logo: https://www.google.com/s2/favicons?domain=cell.com&sz=64
+
+Science:
+  url: https://www.science.org/journal/science
+  logo: https://www.google.com/s2/favicons?domain=science.org&sz=64
+
+Sci. Signal.:
+  url: https://www.science.org/journal/signaling
+  logo: https://www.google.com/s2/favicons?domain=science.org&sz=64
+
+NDT:
+  url: https://academic.oup.com/ndt
+  logo: https://www.google.com/s2/favicons?domain=academic.oup.com&sz=64
+
+AJH:
+  url: https://onlinelibrary.wiley.com/journal/10968652
+  logo: https://www.google.com/s2/favicons?domain=onlinelibrary.wiley.com&sz=64
+
+Semin. Nephrol.:
+  url: https://www.sciencedirect.com/journal/seminars-in-nephrology
+  logo: https://www.google.com/s2/favicons?domain=sciencedirect.com&sz=64
+
+Cancer Res.:
+  url: https://aacrjournals.org/cancerres
+  logo: https://www.google.com/s2/favicons?domain=aacrjournals.org&sz=64
+
+Blood Cancer Discov.:
+  url: https://aacrjournals.org/bloodcancerdiscov
+  logo: https://www.google.com/s2/favicons?domain=aacrjournals.org&sz=64
+
+JCO:
+  url: https://ascopubs.org/journal/jco
+  logo: https://www.google.com/s2/favicons?domain=ascopubs.org&sz=64
+
+Genome Biol.:
+  url: https://genomebiology.biomedcentral.com/
+  logo: https://www.google.com/s2/favicons?domain=biomedcentral.com&sz=64
+
+JCIM:
+  url: https://pubs.acs.org/journal/jcisd8
+  logo: https://www.google.com/s2/favicons?domain=pubs.acs.org&sz=64
+
+PSB:
+  url: https://psb.stanford.edu/
+  logo: https://www.google.com/s2/favicons?domain=psb.stanford.edu&sz=64
+
+bioRxiv:
+  url: https://www.biorxiv.org/
+  logo: https://www.google.com/s2/favicons?domain=biorxiv.org&sz=64

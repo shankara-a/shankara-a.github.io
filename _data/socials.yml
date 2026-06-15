@@ -1,0 +1,10 @@
+# this file contains the social media links and usernames of the author
+# the socials will be displayed in the order they are defined here
+# for more information, please refer to the documentation of jekyll-socials plugin: https://github.com/george-gca/jekyll-socials
+cv_pdf: /assets/pdf/Anand_Shankara_CV.pdf # path to your CV PDF file
+email: shankara.k.anand@gmail.com # your email address
+github_username: shankara-a
+linkedin_username: shankara-anand
+scholar_userid: Il0-knUAAAAJ # your Google Scholar ID
+orcid_id: 0000-0003-4514-0835
+x_username: ShankaraKAnand

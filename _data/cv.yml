@@ -1,0 +1,104 @@
+cv:
+  name: Shankara K. Anand
+  label: Physician-Scientist & Computational Biologist
+  email: shankara.k.anand@gmail.com
+  location: Stanford, CA
+  image: ""
+
+  social_networks:
+    - network: GitHub
+      username: shankara-a
+    - network: LinkedIn
+      username: shankara-anand
+    - network: Google Scholar
+      username: Il0-knUAAAAJ
+    - network: ORCID
+      username: 0000-0003-4514-0835
+    - network: X
+      username: ShankaraKAnand
+
+  address:
+    city: Stanford
+    region: California
+    countryCode: US
+
+  sections:
+    Clinical Training:
+      - company: Stanford Health Care
+        position: Fellow, Hematology/Oncology
+        location: Stanford, CA
+        start_date: 2026-06
+        end_date: present
+
+      - company: Stanford Health Care
+        position: Resident Physician, Internal Medicine
+        location: Stanford, CA
+        start_date: 2024-06
+        end_date: 2026-06
+        highlights:
+          - Translational Investigator Pathway (Hematology/Oncology)
+          - Internal Medicine Health Equity, Advocacy, and Research (HEARS) Pathway
+
+    Education:
+      - institution: Boston University School of Medicine
+        location: Boston, MA
+        area: Medicine
+        studyType: M.D., Cum Laude
+        start_date: 2020
+        end_date: 2024
+
+      - institution: Stanford University
+        location: Stanford, CA
+        area: Biomedical Informatics
+        studyType: M.S.
+        start_date: 2018
+        end_date: 2019
+        highlights:
+          - Focus on machine learning and deep learning for medical applications.
+
+      - institution: Stanford University
+        location: Stanford, CA
+        area: Chemical Engineering
+        studyType: B.S.
+        start_date: 2013
+        end_date: 2017
+
+    Awards:
+      - title: Junior Investigator Travel Award
+        date: 2024
+        awarder: International Society of Amyloidosis
+
+      - title: Internal Medicine Honors, Eli Shapiro Academy
+        date: 2023
+        awarder: Boston University School of Medicine
+
+      - title: Scholar in Training Award
+        date: 2023
+        awarder: American Association for Cancer Research
+
+      - title: Abstract Achievement Award
+        date: 2021
+        awarder: American Society of Hematology
+
+      - title: Stanford Achievement Award (top 10% of graduating class)
+        date: 2017
+        awarder: Stanford University
+
+      - title: Outstanding Student Award (selected Junior in Chemical Engineering)
+        date: 2016
+        awarder: Genentech
+
+    Skills:
+      - name: Advanced
+        icon: fa-solid fa-laptop-code
+        keywords: "Python, R, PyTorch, TensorFlow, Git"
+
+      - name: Basic
+        icon: fa-solid fa-code
+        keywords: "MATLAB, LaTeX"
+
+    Software:
+      - bullet: "See the [software page](/projects/) for open-source tools and publication code repositories."
+
+    Selected Publications:
+      - bullet: "See the [publications page](/publications/) for a complete list, including citation metrics."
