@@ -344,6 +344,11 @@ scholar:
   details_dir: bibliography
   details_link: Details
 
+  # Make {% cite %} links (e.g. in news items) point to the entry's
+  # anchor on the publications page, since that's the only page where
+  # every bibliography entry has an id.
+  relative: /publications/
+
   query: "@*"
   group_by: year
   group_order: descending
