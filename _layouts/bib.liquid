@@ -7,7 +7,14 @@
         {%- if site.data.venues[entry.abbr] and site.data.venues[entry.abbr].logo -%}
           {% assign venue_url = site.data.venues[entry.abbr].url %}
           {% if venue_url %}
-            <a href="{{ venue_url }}" target="_blank" rel="noopener" aria-label="{{ entry.abbr }}" title="{{ entry.journal | default: entry.abbr }}" style="display: inline-flex; align-items: center; justify-content: center;">
+            <a
+              href="{{ venue_url }}"
+              target="_blank"
+              rel="noopener"
+              aria-label="{{ entry.abbr }}"
+              title="{{ entry.journal | default: entry.abbr }}"
+              style="display: inline-flex; align-items: center; justify-content: center;"
+            >
           {% endif %}
           <img
             src="{{ site.data.venues[entry.abbr].logo }}"
@@ -61,7 +68,10 @@
   {% endif %}
 
   <!-- Entry bib key -->
-  <div id="{{ entry.key }}" class="{% if site.enable_publication_thumbnails %}col-sm-8{% else %}col-sm-10{% endif %}{% if entry.doi %} bib-entry-link{% endif %}">
+  <div
+    id="{{ entry.key }}"
+    class="{% if site.enable_publication_thumbnails %}col-sm-8{% else %}col-sm-10{% endif %}{% if entry.doi %} bib-entry-link{% endif %}"
+  >
     <!-- Title -->
     <div class="title">{{ entry.title }}</div>
     <!-- Author -->
@@ -405,7 +415,13 @@
     {% endif %}
 
     {% if entry.doi %}
-      <a class="stretched-link" href="https://doi.org/{{ entry.doi }}" target="_blank" rel="noopener" aria-label="View &quot;{{ entry.title | strip_html }}&quot; via DOI"></a>
+      <a
+        class="stretched-link"
+        href="https://doi.org/{{ entry.doi }}"
+        target="_blank"
+        rel="noopener"
+        aria-label="View &quot;{{ entry.title | strip_html }}&quot; via DOI"
+      ></a>
     {% endif %}
   </div>
 </div>

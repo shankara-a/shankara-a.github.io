@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Published a contemporary treatment review on AL amyloidosis for nephrologists in *Nephrology Dialysis Transplantation* {% cite anand2025nephrologists %}.
+Published a contemporary treatment review on AL amyloidosis for nephrologists in _Nephrology Dialysis Transplantation_ {% cite anand2025nephrologists %}.

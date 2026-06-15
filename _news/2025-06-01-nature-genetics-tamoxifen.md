@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-New paper in *Nature Genetics* on tamoxifen-induced PI3K activation in early-stage uterine cancer {% cite kubler2025tamoxifen %}.
+New paper in _Nature Genetics_ on tamoxifen-induced PI3K activation in early-stage uterine cancer {% cite kubler2025tamoxifen %}.

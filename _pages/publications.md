@@ -10,6 +10,7 @@ nav_order: 1
 <!-- _pages/publications.md -->
 
 {% if site.data.citations.metadata.last_updated %}
+
   <div class="scholar-stats" style="display: flex; flex-wrap: wrap; gap: 1rem; margin-bottom: 1.5rem;">
     <a
       href="https://scholar.google.com/citations?user={{ site.data.socials.scholar_userid }}&hl=en"

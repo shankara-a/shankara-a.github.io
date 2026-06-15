@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our cross-tissue single-nucleus atlas of the human body is published in *Science* as part of the GTEx Consortium {% cite eraslan2022singlenucleus %}.
+Our cross-tissue single-nucleus atlas of the human body is published in _Science_ as part of the GTEx Consortium {% cite eraslan2022singlenucleus %}.

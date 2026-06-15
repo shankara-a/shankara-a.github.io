@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-New paper in the *American Journal of Hematology*: machine-learning based subgroups of systemic AL amyloidosis and their association with mortality and end-stage kidney disease {% cite anand2024subgroups %}.
+New paper in the _American Journal of Hematology_: machine-learning based subgroups of systemic AL amyloidosis and their association with mortality and end-stage kidney disease {% cite anand2024subgroups %}.
