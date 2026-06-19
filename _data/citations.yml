@@ -1,12 +1,12 @@
 metadata:
-  citedby: 9182
+  citedby: 9200
   hindex: 24
   i10index: 26
-  last_updated: '2026-06-14'
+  last_updated: '2026-06-19'
   num_publications: 30
 papers:
   Il0-knUAAAAJ:0EnyYjriUFMC:
-    citations: 205
+    citations: 206
     title: Pan-cancer analysis of post-translational modifications reveals shared patterns of protein regulation
     year: '2023'
   Il0-knUAAAAJ:2osOgNQ5qMEC:
@@ -46,7 +46,7 @@ papers:
     title: Comprehensive proteogenomic characterization of rare kidney tumors
     year: '2023'
   Il0-knUAAAAJ:IWHjjKOFINEC:
-    citations: 5314
+    citations: 5322
     title: The GTEx Consortium atlas of genetic regulatory effects across human tissues
     year: '2020'
   Il0-knUAAAAJ:IjCSPb-OGe4C:
@@ -62,11 +62,11 @@ papers:
     title: The FDA-approved drug Alectinib compromises SARS-CoV-2 nucleocapsid phosphorylation and inhibits viral infection in vitro
     year: '2020'
   Il0-knUAAAAJ:LkGwnXOMwfcC:
-    citations: 413
+    citations: 414
     title: A proteogenomic portrait of lung squamous cell carcinoma
     year: '2021'
   Il0-knUAAAAJ:M3ejUd6NZC8C:
-    citations: 6
+    citations: 7
     title: Tamoxifen induces PI3K activation in uterine cancer
     year: '2025'
   Il0-knUAAAAJ:MXK_kJrjxJIC:
@@ -78,7 +78,7 @@ papers:
     title: Pan-cancer proteogenomic analysis reveals functional mechanisms underlying DNA repair deficiencies
     year: '2022'
   Il0-knUAAAAJ:Se3iqnhoufwC:
-    citations: 193
+    citations: 194
     title: Molecular map of chronic lymphocytic leukemia and its impact on outcome
     year: '2022'
   Il0-knUAAAAJ:Tyk-4Ss8FVUC:
@@ -86,7 +86,7 @@ papers:
     title: 'SNPs2ChIP: Latent Factors of ChIP-seq to infer functions of non-coding SNPs'
     year: '2018'
   Il0-knUAAAAJ:ULOm3_A8WrAC:
-    citations: 427
+    citations: 429
     title: Single-nucleus cross-tissue molecular reference maps toward understanding disease gene function
     year: '2022'
   Il0-knUAAAAJ:UeHWp8X0CEIC:
@@ -110,7 +110,7 @@ papers:
     title: Proteomic-based stemness score measures oncogenic dedifferentiation and enables the identification of druggable targets
     year: '2025'
   Il0-knUAAAAJ:Y0pCki6q_DkC:
-    citations: 261
+    citations: 263
     title: Proteogenomic data and resources for pan-cancer analysis
     year: '2023'
   Il0-knUAAAAJ:YOwf2qJgpHMC:
@@ -130,7 +130,7 @@ papers:
     title: Scaling computational genomics to millions of individuals with GPUs
     year: '2019'
   Il0-knUAAAAJ:_FxGoFyzp5QC:
-    citations: 103
+    citations: 104
     title: Pan-cancer proteogenomics characterization of tumor immunity
     year: '2024'
   Il0-knUAAAAJ:_kc_bZDykSQC:
@@ -158,7 +158,7 @@ papers:
     title: "Light-chain (AL) amyloidosis for nephrologists\u2014treatment standard"
     year: '2025'
   Il0-knUAAAAJ:kNdYIx-mwKoC:
-    citations: 112
+    citations: 113
     title: Pan-cancer proteogenomics connects oncogenic drivers to functional states
     year: '2023'
   Il0-knUAAAAJ:mVmsd5A6BfQC:
