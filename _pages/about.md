@@ -120,7 +120,7 @@ latest_posts:
 
 I am a Hematology/Oncology Fellow & Physician-Scientist at Stanford in the [Translational Investigator Pathway](https://im.stanford.edu/education/residency-programs/translational-research/hematology-oncology.html).
 
-My research is at the intersection of hematology/oncology and computational 'omics. I am interested in **plasma cell dyscrasias**, **amyloidosis**, **precision oncology**, **mult-omics**, and how large datasets can be used for risk stratification, treatment decisions, and drug discovery to improve patient outcomes.
+My research is at the intersection of hematology/oncology and computational 'omics. I am interested in **plasma cell dyscrasias**, **amyloidosis**, **precision oncology**, and how large datasets can be used for risk stratification, treatment decisions, and drug discovery to improve patient outcomes.
 
 Before medical school, I spent five years as a computational biologist at the **Broad Institute of MIT & Harvard**, working with Dr. Gad Getz's lab and the [GTEx Consortium](https://gtexportal.org/). Select projects include co-leading a pan-cancer proteogenomics flagship study with the [CPTAC Consortium](https://www.cell.com/consortium/cptac), a single-nucleus, cross-tissue transcriptomic atlas of the human body with the [GTEx Consortium](https://gtexportal.org/), and genomic risk stratification of smoldering multiple myeloma.
 
