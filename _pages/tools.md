@@ -5,9 +5,9 @@ nav: true
 nav_order: 3
 dropdown: true
 children:
-  - title: Heme/Onc PubMed Tracker
+  - title: PubMed Digest
     permalink: https://shankara-a.github.io/heme-onc-pubmed-tracker/
   - title: divider
-  - title: Heme/Onc Hub
+  - title: Grant Hub
     permalink: https://shankara-a.github.io/heme-onc-hub/
 ---
