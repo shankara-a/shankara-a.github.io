@@ -1,16 +1,16 @@
 metadata:
-  citedby: 9200
+  citedby: 9359
   hindex: 24
   i10index: 26
-  last_updated: '2026-06-19'
+  last_updated: '2026-07-03'
   num_publications: 30
 papers:
   Il0-knUAAAAJ:0EnyYjriUFMC:
-    citations: 206
+    citations: 220
     title: Pan-cancer analysis of post-translational modifications reveals shared patterns of protein regulation
     year: '2023'
   Il0-knUAAAAJ:2osOgNQ5qMEC:
-    citations: 212
+    citations: 213
     title: Population-scale tissue transcriptomics maps long non-coding RNAs to complex disease
     year: '2021'
   Il0-knUAAAAJ:3fE2CSJIrl8C:
@@ -26,11 +26,11 @@ papers:
     title: Genomic Profiling of Smoldering Multiple Myeloma Classifies Molecular Groups with Distinct Pathogenic Phenotypes and Clinical Outcomes
     year: '2021'
   Il0-knUAAAAJ:5nxA0vEk-isC:
-    citations: 52
+    citations: 53
     title: Comprehensive proteogenomic characterization of rare kidney tumors
     year: '2024'
   Il0-knUAAAAJ:7PzlFSSx8tAC:
-    citations: 37
+    citations: 38
     title: High-resolution profiling of lung adenocarcinoma identifies expression subtypes with specific biomarkers and clinically relevant vulnerabilities
     year: '2022'
   Il0-knUAAAAJ:8k81kl-MbHgC:
@@ -46,7 +46,7 @@ papers:
     title: Comprehensive proteogenomic characterization of rare kidney tumors
     year: '2023'
   Il0-knUAAAAJ:IWHjjKOFINEC:
-    citations: 5322
+    citations: 5420
     title: The GTEx Consortium atlas of genetic regulatory effects across human tissues
     year: '2020'
   Il0-knUAAAAJ:IjCSPb-OGe4C:
@@ -62,15 +62,15 @@ papers:
     title: The FDA-approved drug Alectinib compromises SARS-CoV-2 nucleocapsid phosphorylation and inhibits viral infection in vitro
     year: '2020'
   Il0-knUAAAAJ:LkGwnXOMwfcC:
-    citations: 414
+    citations: 419
     title: A proteogenomic portrait of lung squamous cell carcinoma
     year: '2021'
   Il0-knUAAAAJ:M3ejUd6NZC8C:
-    citations: 7
+    citations: 8
     title: Tamoxifen induces PI3K activation in uterine cancer
     year: '2025'
   Il0-knUAAAAJ:MXK_kJrjxJIC:
-    citations: 8
+    citations: 9
     title: Integrative analysis of lung adenocarcinoma across diverse ethnicities and exposures
     year: '2025'
   Il0-knUAAAAJ:QIV2ME_5wuYC:
@@ -78,15 +78,15 @@ papers:
     title: Pan-cancer proteogenomic analysis reveals functional mechanisms underlying DNA repair deficiencies
     year: '2022'
   Il0-knUAAAAJ:Se3iqnhoufwC:
-    citations: 194
+    citations: 198
     title: Molecular map of chronic lymphocytic leukemia and its impact on outcome
     year: '2022'
   Il0-knUAAAAJ:Tyk-4Ss8FVUC:
     citations: 3
     title: 'SNPs2ChIP: Latent Factors of ChIP-seq to infer functions of non-coding SNPs'
-    year: '2018'
+    year: '2019'
   Il0-knUAAAAJ:ULOm3_A8WrAC:
-    citations: 429
+    citations: 432
     title: Single-nucleus cross-tissue molecular reference maps toward understanding disease gene function
     year: '2022'
   Il0-knUAAAAJ:UeHWp8X0CEIC:
@@ -94,7 +94,7 @@ papers:
     title: 'CLUMPS-PTM: Spatial clustering of post-translational modifications across cancer types'
     year: '2023'
   Il0-knUAAAAJ:UebtZRa9Y70C:
-    citations: 56
+    citations: 58
     title: Deep learning integrates histopathology and proteogenomics at a pan-cancer level
     year: '2023'
   Il0-knUAAAAJ:W7OEmFMy1HYC:
@@ -106,11 +106,11 @@ papers:
     title: 'Abstract GS2-09: Tamoxifen instigates uterine cancer development by activating PI3K signaling and supersedes PIK3CA driver mutations'
     year: '2022'
   Il0-knUAAAAJ:Wp0gIr-vW9MC:
-    citations: 7
+    citations: 8
     title: Proteomic-based stemness score measures oncogenic dedifferentiation and enables the identification of druggable targets
     year: '2025'
   Il0-knUAAAAJ:Y0pCki6q_DkC:
-    citations: 263
+    citations: 266
     title: Proteogenomic data and resources for pan-cancer analysis
     year: '2023'
   Il0-knUAAAAJ:YOwf2qJgpHMC:
@@ -126,15 +126,15 @@ papers:
     title: Single cell characterization of myeloma and its precursor conditions reveals transcriptional signatures of early tumorigenesis
     year: '2022'
   Il0-knUAAAAJ:Zph67rFs4hoC:
-    citations: 345
+    citations: 353
     title: Scaling computational genomics to millions of individuals with GPUs
     year: '2019'
   Il0-knUAAAAJ:_FxGoFyzp5QC:
-    citations: 104
+    citations: 109
     title: Pan-cancer proteogenomics characterization of tumor immunity
     year: '2024'
   Il0-knUAAAAJ:_kc_bZDykSQC:
-    citations: 241
+    citations: 242
     title: Genomic profiling of smoldering multiple myeloma identifies patients at a high risk of disease progression
     year: '2020'
   Il0-knUAAAAJ:aqlVkmm33-oC:
@@ -158,15 +158,15 @@ papers:
     title: "Light-chain (AL) amyloidosis for nephrologists\u2014treatment standard"
     year: '2025'
   Il0-knUAAAAJ:kNdYIx-mwKoC:
-    citations: 113
+    citations: 114
     title: Pan-cancer proteogenomics connects oncogenic drivers to functional states
     year: '2023'
   Il0-knUAAAAJ:mVmsd5A6BfQC:
-    citations: 114
+    citations: 121
     title: Integrative multi-omic cancer profiling reveals DNA methylation patterns associated with therapeutic vulnerability and cell-of-origin
     year: '2023'
   Il0-knUAAAAJ:qUcmZB5y_30C:
-    citations: 41
+    citations: 42
     title: The impact of sex on gene expression across human tissues
     year: '2020'
   Il0-knUAAAAJ:qjMakFHDy7sC:
@@ -174,7 +174,7 @@ papers:
     title: Genetic subtypes of smoldering multiple myeloma are associated with distinct pathogenic phenotypes and clinical outcomes
     year: '2022'
   Il0-knUAAAAJ:qxL8FJ1GzNcC:
-    citations: 6
+    citations: 7
     title: 'The CLL-1100 project: towards complete genomic characterization and improved prognostics for CLL'
     year: '2020'
   Il0-knUAAAAJ:roLk4NBRz8UC:
