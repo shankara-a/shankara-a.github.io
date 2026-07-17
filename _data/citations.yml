@@ -1,16 +1,16 @@
 metadata:
-  citedby: 9416
+  citedby: 9439
   hindex: 24
   i10index: 27
-  last_updated: '2026-07-13'
+  last_updated: '2026-07-17'
   num_publications: 30
 papers:
   Il0-knUAAAAJ:0EnyYjriUFMC:
-    citations: 221
+    citations: 223
     title: Pan-cancer analysis of post-translational modifications reveals shared patterns of protein regulation
     year: '2023'
   Il0-knUAAAAJ:2osOgNQ5qMEC:
-    citations: 212
+    citations: 211
     title: Population-scale tissue transcriptomics maps long non-coding RNAs to complex disease
     year: '2021'
   Il0-knUAAAAJ:3fE2CSJIrl8C:
@@ -46,7 +46,7 @@ papers:
     title: Comprehensive proteogenomic characterization of rare kidney tumors
     year: '2023'
   Il0-knUAAAAJ:IWHjjKOFINEC:
-    citations: 5457
+    citations: 5467
     title: The GTEx Consortium atlas of genetic regulatory effects across human tissues
     year: '2020'
   Il0-knUAAAAJ:IjCSPb-OGe4C:
@@ -86,7 +86,7 @@ papers:
     title: 'SNPs2ChIP: Latent Factors of ChIP-seq to infer functions of non-coding SNPs'
     year: '2018'
   Il0-knUAAAAJ:ULOm3_A8WrAC:
-    citations: 435
+    citations: 437
     title: Single-nucleus cross-tissue molecular reference maps toward understanding disease gene function
     year: '2022'
   Il0-knUAAAAJ:UeHWp8X0CEIC:
@@ -110,7 +110,7 @@ papers:
     title: Proteomic-based stemness score measures oncogenic dedifferentiation and enables the identification of druggable targets
     year: '2025'
   Il0-knUAAAAJ:Y0pCki6q_DkC:
-    citations: 272
+    citations: 274
     title: Proteogenomic data and resources for pan-cancer analysis
     year: '2023'
   Il0-knUAAAAJ:YOwf2qJgpHMC:
@@ -122,15 +122,15 @@ papers:
     title: Immune biomarkers of response to immunotherapy in patients with high-risk smoldering myeloma
     year: '2022'
   Il0-knUAAAAJ:ZeXyd9-uunAC:
-    citations: 98
+    citations: 101
     title: Single cell characterization of myeloma and its precursor conditions reveals transcriptional signatures of early tumorigenesis
     year: '2022'
   Il0-knUAAAAJ:Zph67rFs4hoC:
-    citations: 355
+    citations: 356
     title: Scaling computational genomics to millions of individuals with GPUs
     year: '2019'
   Il0-knUAAAAJ:_FxGoFyzp5QC:
-    citations: 111
+    citations: 112
     title: Pan-cancer proteogenomics characterization of tumor immunity
     year: '2024'
   Il0-knUAAAAJ:_kc_bZDykSQC:
@@ -138,7 +138,7 @@ papers:
     title: Genomic profiling of smoldering multiple myeloma identifies patients at a high risk of disease progression
     year: '2020'
   Il0-knUAAAAJ:aqlVkmm33-oC:
-    citations: 539
+    citations: 541
     title: A quantitative proteome map of the human body
     year: '2020'
   Il0-knUAAAAJ:d1gkVwhDpl0C:
@@ -153,16 +153,12 @@ papers:
     citations: 0
     title: Machine learning-based clustering identifies novel subgroups of patients with AL amyloidosis with distinct clinical characteristics
     year: '2024'
-  Il0-knUAAAAJ:hC7cP41nSMkC:
-    citations: 0
-    title: SUPPLEMENTARY MATERIALS science. org/doi/10.1126/science. abl4290
-    year: '2022'
   Il0-knUAAAAJ:hqOjcs7Dif8C:
     citations: 4
     title: "Light-chain (AL) amyloidosis for nephrologists\u2014treatment standard"
     year: '2025'
   Il0-knUAAAAJ:kNdYIx-mwKoC:
-    citations: 116
+    citations: 118
     title: Pan-cancer proteogenomics connects oncogenic drivers to functional states
     year: '2023'
   Il0-knUAAAAJ:mVmsd5A6BfQC:
@@ -198,6 +194,6 @@ papers:
     title: High-resolution lung adenocarcinoma expression subtypes identify tumors with dependencies on MET, CDK4, CDK6, and PD-L1
     year: '2022'
   Il0-knUAAAAJ:zYLM7Y9cAGgC:
-    citations: 49
+    citations: 48
     title: ZBTB33 Is Mutated in Clonal Hematopoiesis and Myelodysplastic Syndromes and Impacts RNA Splicing
     year: '2021'
