@@ -1,12 +1,12 @@
 metadata:
-  citedby: 9497
+  citedby: 9522
   hindex: 24
-  i10index: 27
-  last_updated: '2026-07-20'
+  i10index: 28
+  last_updated: '2026-07-24'
   num_publications: 30
 papers:
   Il0-knUAAAAJ:0EnyYjriUFMC:
-    citations: 225
+    citations: 228
     title: Pan-cancer analysis of post-translational modifications reveals shared patterns of protein regulation
     year: '2023'
   Il0-knUAAAAJ:2osOgNQ5qMEC:
@@ -26,7 +26,7 @@ papers:
     title: Genomic Profiling of Smoldering Multiple Myeloma Classifies Molecular Groups with Distinct Pathogenic Phenotypes and Clinical Outcomes
     year: '2021'
   Il0-knUAAAAJ:5nxA0vEk-isC:
-    citations: 55
+    citations: 56
     title: Comprehensive proteogenomic characterization of rare kidney tumors
     year: '2024'
   Il0-knUAAAAJ:7PzlFSSx8tAC:
@@ -46,7 +46,7 @@ papers:
     title: Comprehensive proteogenomic characterization of rare kidney tumors
     year: '2023'
   Il0-knUAAAAJ:IWHjjKOFINEC:
-    citations: 5501
+    citations: 5511
     title: The GTEx Consortium atlas of genetic regulatory effects across human tissues
     year: '2020'
   Il0-knUAAAAJ:IjCSPb-OGe4C:
@@ -62,15 +62,15 @@ papers:
     title: The FDA-approved drug Alectinib compromises SARS-CoV-2 nucleocapsid phosphorylation and inhibits viral infection in vitro
     year: '2020'
   Il0-knUAAAAJ:LkGwnXOMwfcC:
-    citations: 423
+    citations: 424
     title: A proteogenomic portrait of lung squamous cell carcinoma
     year: '2021'
   Il0-knUAAAAJ:M3ejUd6NZC8C:
-    citations: 9
+    citations: 10
     title: Tamoxifen induces PI3K activation in uterine cancer
     year: '2025'
   Il0-knUAAAAJ:MXK_kJrjxJIC:
-    citations: 10
+    citations: 11
     title: Integrative analysis of lung adenocarcinoma across diverse ethnicities and exposures
     year: '2025'
   Il0-knUAAAAJ:QIV2ME_5wuYC:
@@ -84,9 +84,9 @@ papers:
   Il0-knUAAAAJ:Tyk-4Ss8FVUC:
     citations: 3
     title: 'SNPs2ChIP: Latent Factors of ChIP-seq to infer functions of non-coding SNPs'
-    year: '2019'
+    year: '2018'
   Il0-knUAAAAJ:ULOm3_A8WrAC:
-    citations: 437
+    citations: 440
     title: Single-nucleus cross-tissue molecular reference maps toward understanding disease gene function
     year: '2022'
   Il0-knUAAAAJ:UeHWp8X0CEIC:
@@ -94,7 +94,7 @@ papers:
     title: 'CLUMPS-PTM: Spatial clustering of post-translational modifications across cancer types'
     year: '2023'
   Il0-knUAAAAJ:UebtZRa9Y70C:
-    citations: 58
+    citations: 60
     title: Deep learning integrates histopathology and proteogenomics at a pan-cancer level
     year: '2023'
   Il0-knUAAAAJ:W7OEmFMy1HYC:
@@ -110,7 +110,7 @@ papers:
     title: Proteomic-based stemness score measures oncogenic dedifferentiation and enables the identification of druggable targets
     year: '2025'
   Il0-knUAAAAJ:Y0pCki6q_DkC:
-    citations: 277
+    citations: 278
     title: Proteogenomic data and resources for pan-cancer analysis
     year: '2023'
   Il0-knUAAAAJ:YOwf2qJgpHMC:
@@ -126,7 +126,7 @@ papers:
     title: Single cell characterization of myeloma and its precursor conditions reveals transcriptional signatures of early tumorigenesis
     year: '2022'
   Il0-knUAAAAJ:Zph67rFs4hoC:
-    citations: 361
+    citations: 360
     title: Scaling computational genomics to millions of individuals with GPUs
     year: '2019'
   Il0-knUAAAAJ:_FxGoFyzp5QC:
@@ -134,7 +134,7 @@ papers:
     title: Pan-cancer proteogenomics characterization of tumor immunity
     year: '2024'
   Il0-knUAAAAJ:_kc_bZDykSQC:
-    citations: 242
+    citations: 241
     title: Genomic profiling of smoldering multiple myeloma identifies patients at a high risk of disease progression
     year: '2020'
   Il0-knUAAAAJ:aqlVkmm33-oC:
@@ -142,7 +142,7 @@ papers:
     title: A quantitative proteome map of the human body
     year: '2020'
   Il0-knUAAAAJ:d1gkVwhDpl0C:
-    citations: 7
+    citations: 8
     title: 'Systemic amyloidosis and kidney transplantation: an update'
     year: '2024'
   Il0-knUAAAAJ:dhFuZR0502QC:
@@ -154,11 +154,11 @@ papers:
     title: Machine learning-based clustering identifies novel subgroups of patients with AL amyloidosis with distinct clinical characteristics
     year: '2024'
   Il0-knUAAAAJ:hqOjcs7Dif8C:
-    citations: 4
+    citations: 5
     title: "Light-chain (AL) amyloidosis for nephrologists\u2014treatment standard"
     year: '2025'
   Il0-knUAAAAJ:kNdYIx-mwKoC:
-    citations: 119
+    citations: 121
     title: Pan-cancer proteogenomics connects oncogenic drivers to functional states
     year: '2023'
   Il0-knUAAAAJ:mVmsd5A6BfQC:
@@ -170,7 +170,7 @@ papers:
     title: The impact of sex on gene expression across human tissues
     year: '2020'
   Il0-knUAAAAJ:qjMakFHDy7sC:
-    citations: 39
+    citations: 38
     title: Genetic subtypes of smoldering multiple myeloma are associated with distinct pathogenic phenotypes and clinical outcomes
     year: '2022'
   Il0-knUAAAAJ:qxL8FJ1GzNcC:
@@ -194,6 +194,6 @@ papers:
     title: High-resolution lung adenocarcinoma expression subtypes identify tumors with dependencies on MET, CDK4, CDK6, and PD-L1
     year: '2022'
   Il0-knUAAAAJ:zYLM7Y9cAGgC:
-    citations: 48
+    citations: 49
     title: ZBTB33 Is Mutated in Clonal Hematopoiesis and Myelodysplastic Syndromes and Impacts RNA Splicing
     year: '2021'
