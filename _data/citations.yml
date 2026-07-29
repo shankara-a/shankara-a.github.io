@@ -1,16 +1,20 @@
 metadata:
-  citedby: 9522
+  citedby: 9547
   hindex: 24
   i10index: 28
-  last_updated: '2026-07-24'
+  last_updated: '2026-07-29'
   num_publications: 30
 papers:
+  Il0-knUAAAAJ:-f6ydRqryjwC:
+    citations: 0
+    title: SUPPLEMENTARY MATERIALS science. org/doi/10.1126/science. abl4290
+    year: '2022'
   Il0-knUAAAAJ:0EnyYjriUFMC:
-    citations: 228
+    citations: 229
     title: Pan-cancer analysis of post-translational modifications reveals shared patterns of protein regulation
     year: '2023'
   Il0-knUAAAAJ:2osOgNQ5qMEC:
-    citations: 212
+    citations: 213
     title: Population-scale tissue transcriptomics maps long non-coding RNAs to complex disease
     year: '2021'
   Il0-knUAAAAJ:3fE2CSJIrl8C:
@@ -46,7 +50,7 @@ papers:
     title: Comprehensive proteogenomic characterization of rare kidney tumors
     year: '2023'
   Il0-knUAAAAJ:IWHjjKOFINEC:
-    citations: 5511
+    citations: 5527
     title: The GTEx Consortium atlas of genetic regulatory effects across human tissues
     year: '2020'
   Il0-knUAAAAJ:IjCSPb-OGe4C:
@@ -62,7 +66,7 @@ papers:
     title: The FDA-approved drug Alectinib compromises SARS-CoV-2 nucleocapsid phosphorylation and inhibits viral infection in vitro
     year: '2020'
   Il0-knUAAAAJ:LkGwnXOMwfcC:
-    citations: 424
+    citations: 425
     title: A proteogenomic portrait of lung squamous cell carcinoma
     year: '2021'
   Il0-knUAAAAJ:M3ejUd6NZC8C:
@@ -70,7 +74,7 @@ papers:
     title: Tamoxifen induces PI3K activation in uterine cancer
     year: '2025'
   Il0-knUAAAAJ:MXK_kJrjxJIC:
-    citations: 11
+    citations: 10
     title: Integrative analysis of lung adenocarcinoma across diverse ethnicities and exposures
     year: '2025'
   Il0-knUAAAAJ:QIV2ME_5wuYC:
@@ -86,7 +90,7 @@ papers:
     title: 'SNPs2ChIP: Latent Factors of ChIP-seq to infer functions of non-coding SNPs'
     year: '2018'
   Il0-knUAAAAJ:ULOm3_A8WrAC:
-    citations: 440
+    citations: 445
     title: Single-nucleus cross-tissue molecular reference maps toward understanding disease gene function
     year: '2022'
   Il0-knUAAAAJ:UeHWp8X0CEIC:
@@ -94,7 +98,7 @@ papers:
     title: 'CLUMPS-PTM: Spatial clustering of post-translational modifications across cancer types'
     year: '2023'
   Il0-knUAAAAJ:UebtZRa9Y70C:
-    citations: 60
+    citations: 61
     title: Deep learning integrates histopathology and proteogenomics at a pan-cancer level
     year: '2023'
   Il0-knUAAAAJ:W7OEmFMy1HYC:
@@ -106,11 +110,11 @@ papers:
     title: 'Abstract GS2-09: Tamoxifen instigates uterine cancer development by activating PI3K signaling and supersedes PIK3CA driver mutations'
     year: '2022'
   Il0-knUAAAAJ:Wp0gIr-vW9MC:
-    citations: 8
+    citations: 9
     title: Proteomic-based stemness score measures oncogenic dedifferentiation and enables the identification of druggable targets
     year: '2025'
   Il0-knUAAAAJ:Y0pCki6q_DkC:
-    citations: 278
+    citations: 276
     title: Proteogenomic data and resources for pan-cancer analysis
     year: '2023'
   Il0-knUAAAAJ:YOwf2qJgpHMC:
@@ -126,7 +130,7 @@ papers:
     title: Single cell characterization of myeloma and its precursor conditions reveals transcriptional signatures of early tumorigenesis
     year: '2022'
   Il0-knUAAAAJ:Zph67rFs4hoC:
-    citations: 360
+    citations: 361
     title: Scaling computational genomics to millions of individuals with GPUs
     year: '2019'
   Il0-knUAAAAJ:_FxGoFyzp5QC:
@@ -146,7 +150,7 @@ papers:
     title: 'Systemic amyloidosis and kidney transplantation: an update'
     year: '2024'
   Il0-knUAAAAJ:dhFuZR0502QC:
-    citations: 90
+    citations: 89
     title: Host protein kinases required for SARS-CoV-2 nucleocapsid phosphorylation and viral replication
     year: '2022'
   Il0-knUAAAAJ:eQOLeE2rZwMC:
@@ -158,7 +162,7 @@ papers:
     title: "Light-chain (AL) amyloidosis for nephrologists\u2014treatment standard"
     year: '2025'
   Il0-knUAAAAJ:kNdYIx-mwKoC:
-    citations: 121
+    citations: 124
     title: Pan-cancer proteogenomics connects oncogenic drivers to functional states
     year: '2023'
   Il0-knUAAAAJ:mVmsd5A6BfQC:
@@ -178,7 +182,7 @@ papers:
     title: 'The CLL-1100 project: towards complete genomic characterization and improved prognostics for CLL'
     year: '2020'
   Il0-knUAAAAJ:roLk4NBRz8UC:
-    citations: 43
+    citations: 42
     title: SRSF protein kinases 1 and 2 are essential host factors for human coronaviruses including SARS-CoV-2
     year: '2020'
   Il0-knUAAAAJ:u-x6o8ySG0sC:
