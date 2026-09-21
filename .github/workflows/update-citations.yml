@@ -55,7 +55,10 @@ jobs:
           set +e
           echo "🚀 Running citation update script (single attempt)..."
           start_time=$(date)
-          timeout 90 python bin/update_scholar_citations.py
+          # Scholar scrape fills every publication one-by-one; 90s was too tight
+          # and timed out (exit 124). 300s gives the full author+publications
+          # fetch room to finish when Scholar is responding slowly.
+          timeout 300 python bin/update_scholar_citations.py
           status=$?
           end_time=$(date)
           if [ $status -eq 0 ]; then
