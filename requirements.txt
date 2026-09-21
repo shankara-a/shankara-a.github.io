@@ -1,2 +1,5 @@
 pyyaml
 scholarly
+# scholarly 1.7.11 imports bibtexparser.bibdatabase, removed in bibtexparser 2.x.
+# Pin to v1 so the citation-update workflow doesn't crash at import.
+bibtexparser<2.0.0
