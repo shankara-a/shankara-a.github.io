@@ -2,6 +2,13 @@
 permalink: /robots.txt
 ---
 User-agent: *
-Disallow:
+
+# Heme/Onc Hub (/hemeonc/) is meant to be shared by link, not found by search.
+# The page itself stays crawlable on purpose: it carries
+# <meta name="robots" content="noindex">, and a crawler has to fetch the page to
+# see and obey that. Blocking it here instead would leave the bare URL eligible to
+# appear in results. PDFs and JSON cannot carry a meta tag, so they are blocked.
+Disallow: /hemeonc/pdfs/
+Disallow: /hemeonc/data/
 
 Sitemap: {{ site.baseurl | prepend: site.url }}/sitemap.xml
